@@ -1,0 +1,19 @@
+{
+  "name": "favor",
+  "version": "1.0.0",
+  "description": "share what kind of favors you can make",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dursunkoc/favor.git"
+  },
+  "author": "dursunkoc@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dursunkoc/favor/issues"
+  },
+  "homepage": "https://github.com/dursunkoc/favor#readme"
+}
