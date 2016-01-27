@@ -1,0 +1,25 @@
+{
+  "name": "favor",
+  "description": "share what kind of favors you can make",
+  "main": "app.js",
+  "authors": [
+    "dursunkoc@gmail.com"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/dursunkoc/favor",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "font-awesome": "~4.5.0",
+    "cbp-animated-header-fork": "~0.0.1",
+    "jquery-easing": "*"
+  }
+}
