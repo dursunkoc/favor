@@ -16,6 +16,9 @@
           "numBackups": 3
         },
         {
+          "type": "console"
+        },
+        {
           "type": "logLevelFilter",
           "level": "ERROR",
           "appender": {
